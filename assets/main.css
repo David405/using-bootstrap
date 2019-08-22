@@ -29,6 +29,7 @@ footer ul li a {
   padding-top: 1%;
 }
 
+
 .mag a {
   color: #000;
   font-size: 0.9rem;
@@ -322,10 +323,6 @@ img[alt="others"] {
   font-size: 0.9rem;
   font-weight: bold;
   padding: 2% 0 0 5%;
-}
-
-.panel {
-  padding: 5%;
 }
 
 .btn-warning {
