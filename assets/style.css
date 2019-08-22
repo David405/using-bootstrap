@@ -29,21 +29,26 @@ body {
 .sign_in_subscribe > a {
   font-size: 0.6rem;
 }
+
 .exhibit {
   background-color: white;
   margin-left: 70%;
   padding: 1% 5% 50% 3%;
 }
+
 .top {
   display: flex;
   margin-top: 3%;
 }
+
 footer {
   width: 100%;
 }
+
 .fa-bars {
   color: white;
 }
+
 .left_main {
   width: 60%;
 }
@@ -51,6 +56,7 @@ footer {
 .ryt_main {
   width: 100%;
 }
+
 .h1 {
   font-size: 1.1rem;
   text-align: center;
