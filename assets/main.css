@@ -158,6 +158,7 @@ img[alt="opinion"] {
   font-size: 0.9rem;
   padding: 3% 1% 1% 1%;
 }
+
 /* begin design and development of section under section one  */
 
 .c {
@@ -198,7 +199,6 @@ img[alt="editor_pick"] {
 }
 .editor a {
   color: #000;
-
   font-size: 1.2rem;
   font-weight: bolder;
   display: block;
@@ -207,7 +207,6 @@ img[alt="editor_pick"] {
 }
 .editor p {
   color: #000;
-
   font-size: 0.9rem;
   padding-top: 2%;
   padding-bottom: 3%;
@@ -253,14 +252,12 @@ img[alt="others"] + a {
 }
 .before_footer_top > div > .h1 {
   color: #000;
-
   font-size: 1.1rem;
   font-weight: bolder;
   padding: 2% 0 0 5%;
 }
 .before_footer_top > div > .h6 {
   color: #000;
-
   font-size: 0.9rem;
   font-weight: bold;
   padding: 2% 0 0 5%;
@@ -302,7 +299,6 @@ footer ul li a {
 }
 .nav-item a {
   color: #000;
-
   font-size: 0.9rem;
   font-weight: bolder;
 }
