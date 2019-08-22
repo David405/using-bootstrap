@@ -2,35 +2,43 @@ img[alt="top_nav"] {
   width: 100%;
   height: 75px;
 }
+
 .main-story > img {
   width: 100%;
 }
+
 .main-story > a {
   color: #000;
   font-size: 1.3rem;
   font-weight: bold;
 }
+
 .main-story a:hover {
   border-bottom: 1px solid #f72210;
 }
+
 .main-story p {
   color: #444;
   font-size: 1rem;
   margin-top: 2%;
 }
+
 .my-titles {
   color: #000;
   font-size: 1.25rem;
   font-weight: bold;
 }
+
 .my-titles-featured {
   color: #000;
   font-size: 0.9rem;
   font-weight: bolder;
 }
+
 .my-titles-featured:hover {
   color: #f72210;
 }
+
 .unique {
   color: #000;
   font-weight: bolder;
@@ -39,6 +47,7 @@ img[alt="top_nav"] {
   padding-bottom: 2%;
   padding-left: 1%;
 }
+
 .sub_main > div > a {
   text-align: center;
   color: #000;
@@ -48,9 +57,11 @@ img[alt="top_nav"] {
   padding-left: 3%;
   padding-top: 2.5%;
 }
+
 .sub_main a:hover {
   border-bottom: #f72210;
 }
+
 .sub_main > div > p {
   color: #000;
   font-size: 0.9rem;
