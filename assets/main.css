@@ -8,11 +8,11 @@ img[alt="top_nav"] {
 }
 
 footer ul li a {
-    border-right: 1px solid silver;
-    padding-right: 1%;
-    font-size: 0.9rem;
-    color: #333;
-  }
+  border-right: 1px solid silver;
+  padding-right: 1%;
+  font-size: 0.9rem;
+  color: #333;
+}
 
 .main-story > a {
   color: #000;
@@ -48,21 +48,21 @@ footer ul li a {
 }
 
 .top a {
-    color: #000;
-    font-weight: bolder;
-    padding: 2% 0 0 3%;
-  }
+  color: #000;
+  font-weight: bolder;
+  padding: 2% 0 0 3%;
+}
 
-  .nav-item a {
-    color: #000;
-    font-size: 0.9rem;
-    font-weight: bolder;
-  }
+.nav-item a {
+  color: #000;
+  font-size: 0.9rem;
+  font-weight: bolder;
+}
 
-  .sign_in_subscribe > a {
-    color: #fff;
-    font-weight: bolder;
-  }
+.sign_in_subscribe > a {
+  color: #fff;
+  font-weight: bolder;
+}
 
 .sub_main > div > a {
   text-align: center;
@@ -75,20 +75,20 @@ footer ul li a {
 }
 
 img[alt="featured_slideshow"] + a {
-    color: #000;
-    font-size: 1.1rem;
-    font-weight: bolder;
-    padding-top: 2%;
-    padding-bottom: 3%;
-  }
+  color: #000;
+  font-size: 1.1rem;
+  font-weight: bolder;
+  padding-top: 2%;
+  padding-bottom: 3%;
+}
 
-  img[alt="others"] + a {
-    color: #000;
-    font-size: 1.1rem;
-    font-weight: bolder;
-    padding-top: 2%;
-    padding-bottom: 3%;
-  }
+img[alt="others"] + a {
+  color: #000;
+  font-size: 1.1rem;
+  font-weight: bolder;
+  padding-top: 2%;
+  padding-bottom: 3%;
+}
 
 .main-story a:hover {
   border-bottom: 1px solid #f72210;
@@ -142,11 +142,11 @@ img[alt="featured_slideshow"] + a {
 }
 
 .editor p {
-    color: #000;
-    font-size: 0.9rem;
-    padding-top: 2%;
-    padding-bottom: 3%;
-  }
+  color: #000;
+  font-size: 0.9rem;
+  padding-top: 2%;
+  padding-bottom: 3%;
+}
 
 .sub_main > div > p {
   color: #000;
@@ -210,11 +210,11 @@ img[alt="featured_slideshow"] + a {
 }
 
 .before_footer_top > div > .h1 {
-    color: #000;
-    font-size: 1.1rem;
-    font-weight: bolder;
-    padding: 2% 0 0 5%;
-  }
+  color: #000;
+  font-size: 1.1rem;
+  font-weight: bolder;
+  padding: 2% 0 0 5%;
+}
 
 .opinion .h1:hover {
   color: #f72210;
@@ -261,8 +261,8 @@ img[alt="opinion"] {
 }
 
 .b {
-    width: 100%;
-  }
+  width: 100%;
+}
 
 .b:hover {
   background-color: #999;
