@@ -103,14 +103,6 @@ img[alt="top_nav"] {
 .opinion .h1:hover {
   color: #f72210;
 }
-.opinion h8 {
-  color: #777;
-  font-size: 0.8rem;
-  font-weight: bolder;
-}
-.opinion h8:hover {
-  color: #f72210;
-}
 img[alt="opinion"] {
   width: 63px;
   height: 63px;
