@@ -14,14 +14,14 @@ img[alt="top_nav"] {
 }
 
 .sub_main > div > a {
-    text-align: center;
-    color: #000;
-    font-size: 1rem;
-    font-weight: bold;
-    display: block;
-    padding-left: 3%;
-    padding-top: 2.5%;
-  }
+  text-align: center;
+  color: #000;
+  font-size: 1rem;
+  font-weight: bold;
+  display: block;
+  padding-left: 3%;
+  padding-top: 2.5%;
+}
 
 .main-story a:hover {
   border-bottom: 1px solid #f72210;
