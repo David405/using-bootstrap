@@ -16,6 +16,30 @@ body {
   z-index: 3;
 }
 
+.nav-link a {
+  color: white !important;
+  background: black;
+}
+
+.navbar-collapse {
+  justify-content: center;
+}
+
+.nav-item a:hover {
+  color: red !important;
+}
+
+.nav-item a {
+  font-size: 1.2em;
+  color: black !important;
+  font-family: Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
+    sans-serif;
+}
+
+#sections-nav li:nth-child(4) {
+  white-space: nowrap;
+}
+
 .navbar-toggler {
   background-color: #f72210;
   font-size: 0.7rem;
