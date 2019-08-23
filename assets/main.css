@@ -125,11 +125,6 @@ img[alt="others"] + a {
   padding-left: 1%;
 }
 
-.opinion {
-  text-align: justify;
-  height: 70px;
-}
-
 .sub_main a:hover {
   border-bottom: #f72210;
 }
@@ -184,6 +179,7 @@ img[alt="others"] + a {
 
 .opinion {
   display: flex;
+  height: 70px;
 }
 
 .opinion > div {
