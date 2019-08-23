@@ -7,4 +7,4 @@ The website is built using HTML, CSS and the Bootstrap framework.
 David Asamonye
 
 # Live Preview
-https://raw.githack.com/David405/using-bootstrap/responsive-design/index.html
+https://raw.githack.com/David405/using-bootstrap/final-changes/index.html
