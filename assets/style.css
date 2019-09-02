@@ -12,7 +12,7 @@ body {
 
 .nav_1 {
   width: 100%;
-  height: 70px;
+  height: 90px;
   background-color: #f72210;
   border: 0;
   z-index: 3;
@@ -24,7 +24,7 @@ body {
   margin-left: 20px;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 1000px) {
   .date {
     display: none;
   }
@@ -32,12 +32,22 @@ body {
 
 .logo {
   text-align: center;
-  padding-left: 400px;
+  padding-left: 300px;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 900px) {
   .logo {
     padding-left: 0;
+    height: 3rem;
+    width: 10rem;
+  }
+}
+
+@media screen and (max-width: 1000px) and (min-width: 800px) {
+  .logo {
+    align-content: center;
+    text-align: center;
+    padding-right: 100px;
   }
 }
 
@@ -64,7 +74,7 @@ body {
 }
 
 #sections-nav {
-  margin-top: 70px;
+  margin-top: 90px;
 }
 
 #sections-nav li:nth-child(4) {
